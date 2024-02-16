@@ -2,3 +2,5 @@
 - Static Classes
 - Anonymous Classes
 - Singleton Classes
+- Wrapper Classes
+- Enums

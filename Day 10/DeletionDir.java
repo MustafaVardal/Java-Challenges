@@ -29,3 +29,5 @@ public static void main(String args[]) throws IOException{
 	System.out.print("Files deleted.");
 	}
 }
+
+// Two topic is left. Directories and I/O STREAMS
